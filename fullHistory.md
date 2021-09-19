@@ -133,11 +133,37 @@ Before Fitbit and Nike, this startup company created wearable technology to trac
 ### Symmetry Generator
 [>See the description in the resume<](./README.md#symmetry-generator)
 
+#### Lessons learned
+- User feedback is essential to choosing the right topics to develop
+- Pictures are worth a thousand explanations.
+
 ### Climb a Rope
-[>See the description in the resume<](./README.md#climb-a-rope)
+
+Cambridge, MA
+
+April 2012
+
+[>Github repository<](https://github.com/Chadius/ClimbARope)
+
+An action game where a player climbs up a building and avoids obstacles. Created over a weekend with multiple people from multiple disciplines.
+
+- Collaborated with a musician and an artist to build an action game in a weekend as part of a worldwide event.
 
 ### Jam within a Jam within a Jam
-[>See the description in the resume<](./README.md#jam-within-a-jam-within-a-jam)
+
+Cambridge, MA
+
+April 2011
+
+A card game developed over a weekend based on the hit movie Inception. Dive in, grab the goods, and then escape before the dream world collapses.
+
+[>Post Mortem Report<](./jamWIthinAJam.md)
 
 ### Lunar Lander Cheez Grabber
-[>See the description in the resume<](./README.md#lunar-lander-cheez-grabber)
+Cambridge, MA
+
+October 2010
+
+A game where a player drives on the surface of the moon, collects points and fends off aliens.
+
+- Designed with an artist and built in Linux and Windows over the weekend as part of a game development event. Ported to Mac OS X within a week.

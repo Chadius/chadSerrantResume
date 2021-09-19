@@ -1,6 +1,8 @@
 # Resume
-- Microsoft Word format
-- PDF format
+- [Microsoft Word](https://filedn.com/lTPv2PNvi3Mk1DQSsInvIG5/Resume/2021-09-19-Chad-Serrant-Resume.docx)
+- [PDF](https://filedn.com/lTPv2PNvi3Mk1DQSsInvIG5/Resume/2021-09-19-Chad-Serrant-Resume.pdf)
+
+[>LinkedIn<](https://www.linkedin.com/in/chad-serrant-08205514/)
 
 [>Full History of jobs and employment, from 2006<](./fullHistory.md)
 # Chad Serrant
@@ -52,7 +54,7 @@ data to understand new or rare maladies.
 - Added frontend testing to ensure the website’s stability.
 
 ### Kantar
-Boston MA
+Boston, MA
 
 October 2015 - October 2016
 
@@ -69,7 +71,7 @@ Watertown MA
 
 April 2012 - July 2015
 
-A pioneer in electronic health records, [>Athenahealth<](https://www.athenahealth.com/) lowered the barriers needed to record and access medical records since 1998.
+A pioneer in electronic health records, [>Athenahealth<](https://www.athenahealth.com/) lowered the barriers to record and access medical records since 1998.
 
 Software Engineer
 #### Responsibilities
@@ -79,19 +81,18 @@ Software Engineer
 ## Education
 ### Massachusetts Institute of Technology
 Cambridge, MA
+Sep 2000 - Feb 2005
 
 Bachelor of Science in Computer Science
-
-Sep 2000 - Feb 2005
 
 ### Interaction Design Foundation
 Aarhus, Denmark (online courses)
 
 January 2018 - Present
 
-IDF is an online education platform that focuses on design, from web form navigation to user interviews.
-
 [>IDF homepage<](https://www.interaction-design.org/)
+
+IDF is an online education platform that focuses on design, from web form navigation to user interviews.
 
 Classes completed:
 - Information Visualization
@@ -103,6 +104,8 @@ Classes completed:
 Cambridge, MA
 
 September 2017 - June 2019
+
+[>Homepage<](https://extension.harvard.edu/)
 
 Extension School courses focused on a front end web developer.
 
@@ -140,41 +143,6 @@ Transform a photograph into a symmetrical pattern using this command line tool.
 
 ![Source image: A rainbow stripe pattern with a white stripe on top and a black stripe on the bottom.](https://github.com/Chadius/creating-symmetry/raw/main/example/rainbow_stripe.png)
 
-![Rainbow stripe is transofmred into a horizontal frieze with blue and yellow hourglasses on a green background.](https://github.com/Chadius/creating-symmetry/raw/main/example/friezes/rainbow_stripe_frieze_p11m_and_p11g.png)
+![Rainbow stripe is transformed into a horizontal frieze with blue and yellow hourglasses on a green background.](https://github.com/Chadius/creating-symmetry/raw/main/example/friezes/rainbow_stripe_frieze_p11m_and_p11g.png)
 
-![Rainbow stripe is transofmred into a rosette with 4 way symmetry around the center. Green and purple petals sit on a blue background.](https://github.com/Chadius/creating-symmetry/raw/main/example/rosettes/rainbow_stripe_rosette_2.png)
-
-#### Lessons learned
-- User feedback is essential to choosing the right topics to develop
-- Pictures are worth a thousand explanations.
-
-### Climb a Rope
-
-Cambridge, MA
-
-April 2012
-
-[>Github repository<](https://github.com/Chadius/ClimbARope)
-
-An action game where a player climbs up a building and avoids obstacles. Created over a weekend with multiple people from multiple disciplines.
-
-- Collaborated with a musician and an artist to build an action game in a weekend as part of a worldwide event.
-
-### Jam within a Jam within a Jam
-
-Cambridge, MA
-
-April 2011
-
-A card game developed over a weekend based on the hit movie Inception. Dive in, grab the goods, and then escape before the dream world collapses.
-
-[>Post Mortem Report<](./jamWIthinAJam.md)
-
-### Lunar Lander Cheez Grabber
-Cambridge, MA
-
-October 2010
-
-A game where a player drives on the surface of the moon, collects points and fends off aliens.
-
-- Designed with an artist and built in Linux and Windows over the weekend as part of a game development event. Ported to Mac OS X within a week.
+![Rainbow stripe is transformed into a rosette with 4 way symmetry around the center. Green and purple petals sit on a blue background.](https://github.com/Chadius/creating-symmetry/raw/main/example/rosettes/rainbow_stripe_rosette_2.png)
