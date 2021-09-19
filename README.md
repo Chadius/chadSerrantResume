@@ -1,15 +1,20 @@
 # Resume
-Microsoft Word format
-PDF format
+- Microsoft Word format
+- PDF format
+
+[>Full History of jobs and employment, from 2006<](./fullHistory.md)
 # Chad Serrant
 ## Who am I?
-Over ten years of software engineering helps me help people produce software to help the world.
+- Over 10 years of Software engineering experience
+- Works best with multiple disciplines on a given project, rather than the engineering department
+- Uses Customer feedback to improve product and process
+
 ## Software Engineering Experience
 ### VMWare Tanzu Labs
 Cambridge, MA
 July 2019 - Present
 
-VMWare Tanzu Labs (formerly Pivotal Labs) consults companies and organizations to help their software projects and products move fast forever.
+[>VMWare Tanzu Labs<](https://tanzu.vmware.com/labs) (formerly Pivotal Labs) consults companies and organizations to help their software projects and products move fast forever.
 
 Software Engineer
 #### Responsibilities
@@ -17,93 +22,81 @@ Software Engineer
 - Pair with client developers in order to spread extreme programming practices and to share project knowledge among teammates.
 - Investigate process and implement improvements to eliminate inefficiencies in the project’s development.
 #### Successes
-- Humana Inc. teamed up with Pivotal to modernize the Medicare shopping experience. In 2020 the new site was used to handle 100% of their Open Enrollment Period traffic. New website URL: [https://plans.humana.com/](https://plans.humana.com/)
-- Kessel Run, part of the US Air Force, is chosen to help update the F-35 maintenance program, ALIS: [https://www.airforcemag.com/f-35-program-dumps-alis-for-odin/](https://www.airforcemag.com/f-35-program-dumps-alis-for-odin/)
+- Humana Inc. teamed up with Pivotal to modernize the Medicare shopping experience for customers and sales agents. In 2020 the new site was used to handle 100% of their Open Enrollment Period traffic. [>Humana's new customer plans webpage<](https://plans.humana.com/)
+- Kessel Run, part of the US Air Force, is chosen to help update the F-35 maintenance program, ALIS. [>News article<](https://www.airforcemag.com/f-35-program-dumps-alis-for-odin/)
 
 ### Harvard Medical School
 Boston, MA
 November 2016 - June 2019
 
-The Department of Biomedical Informatics focuses on helping discover genetic diseases and treating those affected.
+[>The Department of Biomedical Informatics<](https://dbmi.hms.harvard.edu/) focuses on helping discover genetic diseases and treating those affected.
 
 Software Engineer
-#### 4D Nucleome
+#### 4DN-DCIC (part of 4D Nucleome project)
 October 2018 - June 2019
 
-4D Nucleome collects genetic research data from laboratories around the United States and allows bioinformatic researchers to search the website to do research.
+[>4D Nucleome<](https://compbio.hms.harvard.edu/4dn-dcic) collects genetic research data from laboratories around the United States and allows bioinformatic researchers to search the website to do research.
 
-- Adding new page functionality to improve user experience when it comes to research on the site.
+##### Responsibilities
+- Added new page functionality to simplify data discovery.
 
 #### Undiagnosed Disease Network
 November 2016 - September 2018
 
-- Added new features to the Undiagnosed Disease Network to connect patients, providers and researchers with medical data.
+[>Undiagnosed Disease Network<](https://undiagnosed.hms.harvard.edu/) connects patients, providers and researchers with medical 
+data to understand new or rare maladies. 
+
+##### Responsibilities
+- Added new features to the main webpage to simplify data entry when speaking to applicants.
 - Interacted with project managers to design and develop new features to satisfy client needs.
 - Added frontend testing to ensure the website’s stability.
 
-### Compete (Milward Brown Digital)
+### Kantar
 Boston MA
+
 October 2015 - October 2016
 
-Compete tracked clickstreams (where users enter and exit websites) for advertising companies.
+[>Compete<](https://www.kantar.com/north-america) (formerly Compete, part of Milward Brown Digital) tracked clickstreams for advertising research.
 
 Software Engineer II
-- Help develop Compete.com, a website that sells website traffic data to marketers.
-- Update API to help Survey Panelists receive gift cards with a third party vendor.
-- Fix Javascript bugs and worked on adding new features to pages.
+#### Responsibilities
+- Helped develop the Compete.com (now defunct) website to sell subscriptions and display clickstream data.
+- Updated API to help Survey Panelists receive gift cards with a third party vendor.
+- Fixed Javascript bugs and worked on adding new features to pages.
 
-### Athenahealth, Watertown MA 						April 2012 - July 2015
+### Athenahealth
+Watertown MA
+
+April 2012 - July 2015
+
+A pioneer in electronic health records, [>Athenahealth<](https://www.athenahealth.com/) lowered the barriers needed to record and access medical records since 1998.
+
 Software Engineer
-A pioneer in electronic health records, Athenahealth lowered the barriers needed to record and access medical records since 1998.
-• Worked on the Quality Management (QM) team and developed the backend used by clinical providers to track quality of care.
-• Improved frontend QM website, which helps clinical providers track quality of care progress to satisfy government reimbursement requirements.
-
-### sessionM
-Boston, MA
-
-October 2011-November 2011
-
-Software Developer
-
-SessionM developed a platform for advertisement games to track player engagement.
-
-- Focused on Administrator controls to add advertisement videos to mobile games.
-- Added Facebook login features to allow users easy access to collect rewards for watching advertisement videos.
-
-### Carbonite
-Boston, MA
-
-September 2009 - October 2011
-
-Escalation Engineer
-
-Carbonite sold direct-to-customer computer backup software. Let it run in the background, make a copy of your photos and documents, and restore them on a new computer.
- 
-- Served as a resource to the Customer Support team and handled about five customer issues per week requiring a software engineer to analyze and debug the consumer data backup application.
-- Detected and fixed bugs to improve the consumer data backup application on Windows and Mac OS X.
-- Presented to multiple teams: unsolved escalation cases, potential common issues, and possible solutions.
-
-### AWare Technologies, Inc., Cambridge, MA
-March 2007 - March 2009
-Software Engineer
-
-Before Fitbit and Nike, this startup company created wearable technology to track footsteps and encourage employees to improve their health.
-
-- Improved firmware for a wireless pedometer that transmits step counts and sends periodic updates to a server for comparison among peers.
-- Performed quality control and additional testing to assure device quality.
+#### Responsibilities
+- Worked on the Quality Management (QM) team and developed the backend used by clinical providers to track quality of care.
+- Improved frontend QM website, which helps clinical providers track quality of care progress to satisfy government reimbursement requirements.
 
 ## Education
+### Massachusetts Institute of Technology
+Cambridge, MA
+
+Bachelor of Science in Computer Science
+
+Sep 2000 - Feb 2005
+
 ### Interaction Design Foundation
 Aarhus, Denmark (online courses)
 
-TODO- Present
+January 2018 - Present
 
 IDF is an online education platform that focuses on design, from web form navigation to user interviews.
-Website: [https://www.interaction-design.org/](https://www.interaction-design.org/)
-Classes completed: 
+
+[>IDF homepage<](https://www.interaction-design.org/)
+
+Classes completed:
 - Information Visualization
-- Interaction Design for Usability 
-- Conducting Usability Testing 
+- Interaction Design for Usability
+- Conducting Usability Testing
 - Human-Computer Interaction
 
 ### Harvard Extension School
@@ -118,12 +111,14 @@ Classes completed:
 - Webpage Analysis and Design
 - User Experience Engineering
 
-### TODO edx.org
-TODO Where is edx? What owns them now? 
+### edx.org
+Cambridge, MA
 
-October 2015 - January 2017
+October 2015 - January 2017 (online courses)
 
-Online courses focused on web development and user behaviors.
+[>edX homepage<](https://www.edx.org/)
+
+Online courses focused on web development and user behavior.
 
 Verified 2015 Certificates: 
 - Engineering Software as a Service 
@@ -133,26 +128,39 @@ Verified 2015 Certificates:
 - Principles of Design for Humans
 - Understanding Human Needs
 
-### Massachusetts Institute of Technology
-Cambridge, MA
-
-Bachelor of Science in Computer Science
-
-Sep 2000 - Feb 2005
-
 ## Personal Projects
-### TODO Wallpaper Generator
+### Symmetry Generator
+Watertown, MA
+
+February 2021 - Present
+
+[>Github repository<](https://github.com/Chadius/creating-symmetry/)
+
+Transform a photograph into a symmetrical pattern using this command line tool.
+
+![Source image: A rainbow stripe pattern with a white stripe on top and a black stripe on the bottom.](https://github.com/Chadius/creating-symmetry/raw/main/example/rainbow_stripe.png)
+
+![Rainbow stripe is transofmred into a horizontal frieze with blue and yellow hourglasses on a green background.](https://github.com/Chadius/creating-symmetry/raw/main/example/friezes/rainbow_stripe_frieze_p11m_and_p11g.png)
+
+![Rainbow stripe is transofmred into a rosette with 4 way symmetry around the center. Green and purple petals sit on a blue background.](https://github.com/Chadius/creating-symmetry/raw/main/example/rosettes/rainbow_stripe_rosette_2.png)
+
+#### Lessons learned
+- User feedback is essential to choosing the right topics to develop
+- Pictures are worth a thousand explanations.
+
 ### Climb a Rope
 
 Cambridge, MA
 
 April 2012
 
+[>Github repository<](https://github.com/Chadius/ClimbARope)
+
 An action game where a player climbs up a building and avoids obstacles. Created over a weekend with multiple people from multiple disciplines.
 
 - Collaborated with a musician and an artist to build an action game in a weekend as part of a worldwide event.
 
-### TODO port article Jam within a Jam within a Jam
+### Jam within a Jam within a Jam
 
 Cambridge, MA
 
