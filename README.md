@@ -4,12 +4,10 @@
 
 [>LinkedIn<](https://www.linkedin.com/in/chad-serrant-08205514/)
 
-[>Full History of jobs and employment, from 2006<](./fullHistory.md)
 # Chad Serrant
 ## Who am I?
 - Over 10 years of Software engineering experience
-- Works best with multiple disciplines on a given project, rather than the engineering department
-- Uses Customer feedback to improve product and process
+- Uses Empathy to work with customers, engineers, designers and project managers to improve products and process
 
 ## Software Engineering Experience
 ### VMWare Tanzu Labs
@@ -18,13 +16,15 @@ July 2019 - Present
 
 [>VMWare Tanzu Labs<](https://tanzu.vmware.com/labs) (formerly Pivotal Labs) consults companies and organizations to help their software projects and products move fast forever.
 
-Software Engineer
+*Software Engineer*
+
 #### Responsibilities
-- Work alongside designers and project managers to evaluate and rank which tasks are needed to meet the client’s desires.
-- Pair with client developers in order to spread extreme programming practices and to share project knowledge among teammates.
+- Pair with client developers to improve software quality and speed up the release process by sharing project knowledge among teammates.
+- Work alongside designers and project managers to evaluate and rank client desires.
 - Investigate process and implement improvements to eliminate inefficiencies in the project’s development.
 #### Successes
-- Humana Inc. teamed up with Pivotal to modernize the Medicare shopping experience for customers and sales agents. In 2020 the new site was used to handle 100% of their Open Enrollment Period traffic. [>Humana's new customer plans webpage<](https://plans.humana.com/)
+- Massachusetts Consortium for Innovative Education Assessment (MCIEA) and VMWare Tanzu Labs updated the School Quality Measures webpage to help educators understand how to improve school environments. Labs focused on building trust to create a partnership rather than a list of requirements.  [>Blog post<](https://tanzu.vmware.com/content/blog/mciea-vmware-tanzu-labs-school-quality-measures)
+- Humana Inc. teamed up with Pivotal to modernize the Medicare shopping experience for customers and sales agents. In 2020 the new site was used to handle 100% of their Open Enrollment Period traffic. [>Humana's product lead explains the process<](https://tanzu.vmware.com/content/videos/how-vmware-tanzu-enhanced-this-insurance-company-s-medicare-digital-enrollment-experience)
 - Kessel Run, part of the US Air Force, is chosen to help update the F-35 maintenance program, ALIS. [>News article<](https://www.airforcemag.com/f-35-program-dumps-alis-for-odin/)
 
 ### Harvard Medical School
@@ -33,7 +33,8 @@ November 2016 - June 2019
 
 [>The Department of Biomedical Informatics<](https://dbmi.hms.harvard.edu/) focuses on helping discover genetic diseases and treating those affected.
 
-Software Engineer
+*Software Engineer*
+
 #### 4DN-DCIC (part of 4D Nucleome project)
 October 2018 - June 2019
 
@@ -58,13 +59,13 @@ Boston, MA
 
 October 2015 - October 2016
 
-[>Compete<](https://www.kantar.com/north-america) (formerly Compete, part of Milward Brown Digital) tracked clickstreams for advertising research.
+[>Kantar<](https://www.kantar.com/north-america) (formerly Compete, part of Milward Brown Digital) tracked clickstreams for advertising research.
 
-Software Engineer II
+*Software Engineer II*
+
 #### Responsibilities
-- Helped develop the Compete.com (now defunct) website to sell subscriptions and display clickstream data.
+- Helped develop the Compete.com (now defunct) website to sell subscriptions to marketers to see clickstream data.
 - Updated API to help Survey Panelists receive gift cards with a third party vendor.
-- Fixed Javascript bugs and worked on adding new features to pages.
 
 ### Athenahealth
 Watertown MA
@@ -73,7 +74,8 @@ April 2012 - July 2015
 
 A pioneer in electronic health records, [>Athenahealth<](https://www.athenahealth.com/) lowered the barriers to record and access medical records since 1998.
 
-Software Engineer
+*Software Engineer*
+
 #### Responsibilities
 - Worked on the Quality Management (QM) team and developed the backend used by clinical providers to track quality of care.
 - Improved frontend QM website, which helps clinical providers track quality of care progress to satisfy government reimbursement requirements.
