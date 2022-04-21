@@ -6,8 +6,7 @@
 
 # Chad Serrant
 ## Who am I?
-- Over 10 years of Software engineering experience
-- Uses Empathy to work with customers, engineers, designers and project managers to improve products and process
+- Over 10 years of engineering experience seeks rapid ideation, iteration, and consumer feedback. Desires consumer empathy and rapid possibilities over intense details and deadlines.
 
 ## Software Engineering Experience
 ### VMWare Tanzu Labs
