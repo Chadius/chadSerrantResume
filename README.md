@@ -6,7 +6,8 @@
 
 # Chad Serrant
 ## Who am I?
-- Over 10 years of engineering experience seeks rapid ideation, iteration, and consumer feedback. Desires consumer empathy and rapid possibilities over intense details and deadlines.
+- Over 10 years of engineering experience seeks rapid ideation, iteration, and consumer feedback.
+- Desires consumer empathy, pair programming, and clear business goals.
 
 ## Software Engineering Experience
 ### VMWare Tanzu Labs
@@ -22,7 +23,7 @@ July 2019 - Present
 - Work alongside designers and project managers to evaluate and rank client desires.
 - Investigate process and implement improvements to eliminate inefficiencies in the project’s development.
 #### Successes
-- Massachusetts Consortium for Innovative Education Assessment (MCIEA) and VMWare Tanzu Labs updated the School Quality Measures webpage to help educators understand how to improve school environments. Labs focused on building trust to create a partnership rather than a list of requirements.  [>Blog post<](https://tanzu.vmware.com/content/blog/mciea-vmware-tanzu-labs-school-quality-measures)
+- Massachusetts Consortium for Innovative Education Assessment (MCIEA) and VMWare Tanzu Labs updated the School Quality Measures webpage to help educators understand how to improve school environments. Labs focused on building trust to create a partnership rather than a list of requirements.  [>Blog post<](https://tanzu.vmware.com/content/blog/mciea-vmware-tanzu-labs-school-quality-measures) [>Case Study<](https://tanzu.vmware.com/customers/mciea)
 - Humana Inc. teamed up with Pivotal to modernize the Medicare shopping experience for customers and sales agents. In 2020 the new site was used to handle 100% of their Open Enrollment Period traffic. [>Humana's product lead explains the process<](https://tanzu.vmware.com/content/videos/how-vmware-tanzu-enhanced-this-insurance-company-s-medicare-digital-enrollment-experience)
 - Kessel Run, part of the US Air Force, is chosen to help update the F-35 maintenance program, ALIS. [>News article<](https://www.airforcemag.com/f-35-program-dumps-alis-for-odin/)
 
@@ -136,7 +137,7 @@ Verified 2015 Certificates:
 ### Symmetry Generator
 Watertown, MA
 
-February 2021 - Present
+February 2021 - Jan 2023
 
 [>Github repository<](https://github.com/Chadius/creating-symmetry/)
 

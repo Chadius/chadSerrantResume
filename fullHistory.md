@@ -6,12 +6,13 @@
 ## Software Engineering Experience
 ### VMWare Tanzu Labs
 [>See the description in the resume<](./README.md#vmware-tanzu-labs)
+
 #### Successes
 - Massachusetts Consortium for Innovative Education Assessment (MCIEA) and VMWare Tanzu Labs updated the School Quality Measures webpage to help educators understand how to improve school environments. Labs focused on building trust to create a partnership rather than a list of requirements.  [>Blog post<](https://tanzu.vmware.com/content/blog/mciea-vmware-tanzu-labs-school-quality-measures)
 - Humana Inc. teamed up with Pivotal to modernize the Medicare shopping experience for customers and sales agents. In 2020 the new site was used to handle 100% of their Open Enrollment Period traffic. [>Link to Humana's new customer page<](https://plans.humana.com/)
 - Kessel Run, part of the US Air Force, is chosen to help update the F-35 maintenance program, ALIS. [>Link to news article<](https://www.airforcemag.com/f-35-program-dumps-alis-for-odin/)
 #### What I like
-- VMWare Tanzu Labs(VTL) takes a holistic approach to software development. I'm more than a software engineer, I'm also doing a bit of design and project management.
+- VMWare Tanzu Labs(VTL) takes a holistic approach to software development. I'm more than a software engineer, I'm also doing a bit of design and project management. Article:  [>A Day in the life of a Pivotal Engineer<](https://tanzu.vmware.com/content/blog/a-day-in-the-life-of-a-pivotal-engineer)
 - Managers explain what their next steps are using customer feedback rather than political fiat.
 - Consulting nature means I have many opportunities to learn different technologies and philosophies.
 
